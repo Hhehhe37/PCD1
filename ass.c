@@ -21,7 +21,7 @@ void studentMode();
 void saveStudentData();
 void displayStudentData();
 
-char studentName[50];
+char studentName[61];
 char studentID[20];
 char result;
 int semester;
